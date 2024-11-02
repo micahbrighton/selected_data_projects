@@ -12,9 +12,9 @@ This model represents my first attempt at building a game probability model for 
 
 ## Inputs
 The first model that was built only has 6 inputs:
-1. Team Offensive Rating - how many points a team scores per 100 possessions
+1. Team Net Rating - how many points a team scores per 100 possessions - how many points a team gives up per 100 possessions
 2. Team RPI - this is representative of how good a team is. It uses team winning percentage, opponent winning percent, and opponents' oppenents winning percentage.
-3. Opponent Offensive Rating
+3. Opponent Net Rating
 4. Opponent RPI
 5. Home Court Flag - this indicates whether or not the game is at home. The home team has an advantage of winning.
 6. Neutral Court Flag - this indicates whether or not the game was played at a neutral site. Neutral sites do not favor either team.
